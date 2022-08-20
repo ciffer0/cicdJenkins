@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Zelio
+          Learn React with Zelio the greatest
         </a>
       </header>
     </div>
